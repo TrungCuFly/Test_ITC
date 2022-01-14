@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Trung đẹp trai");
+        System.out.println("Trung rất đẹp trai");
         Test_ITC t = new Test_ITC();
         t.inputArray();
         t.outputArray();
